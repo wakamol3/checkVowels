@@ -1,3 +1,1 @@
-# checkVowels
-
-this will check all the vowels in a word and tell you what index they are at and output how many there are in the word
+The checkVowels function examines a provided word and identifies the position of all vowels. It also calculates and reports the total count of vowels present in the word.
